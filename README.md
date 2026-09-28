@@ -4,6 +4,14 @@ A modern, production-grade **Android Automotive OS (AAOS)** Digital Cluster Dash
 
 ---
 
+## 🎥 Live Demo & Video Walkthrough
+
+Watch the RoadSync Automotive Digital Cluster Dashboard and VHAL controls in action:
+
+🎬 **[Watch Live Demo Video Walkthrough](https://rampgroups-my.sharepoint.com/:v:/g/personal/pramod_kumar_resolence_com/IQAnhhC9LjcjT79JNhywm4QVAaqPtH2wMgSvHsIi6YpTzmY?e=I5PtcK)**
+
+---
+
 ## 🌟 Key Features & Functionalities
 
 ### 1. 🏎️ Real-Time Digital Speedometer Gauge
