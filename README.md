@@ -8,7 +8,9 @@ A modern, production-grade **Android Automotive OS (AAOS)** Digital Cluster Dash
 
 Watch the RoadSync Automotive Digital Cluster Dashboard and VHAL controls in action:
 
-🎬 **[Watch Live Demo Video Walkthrough](https://rampgroups-my.sharepoint.com/:v:/g/personal/pramod_kumar_resolence_com/IQAnhhC9LjcjT79JNhywm4QVAaqPtH2wMgSvHsIi6YpTzmY?e=I5PtcK)**
+[![RoadSync Automotive Dashboard Demo](docs/dashboard_preview.png)](https://rampgroups-my.sharepoint.com/:v:/g/personal/pramod_kumar_resolence_com/IQAnhhC9LjcjT79JNhywm4QVAaqPtH2wMgSvHsIi6YpTzmY?e=I5PtcK)
+
+🎬 **[Click Here to Watch Full Video Walkthrough](https://rampgroups-my.sharepoint.com/:v:/g/personal/pramod_kumar_resolence_com/IQAnhhC9LjcjT79JNhywm4QVAaqPtH2wMgSvHsIi6YpTzmY?e=I5PtcK)**
 
 ---
 
