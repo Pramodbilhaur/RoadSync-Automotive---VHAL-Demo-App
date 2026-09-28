@@ -1,0 +1,19 @@
+// Android.bp - AOSP Prebuilt Integration Blueprint for VHALDemoApp
+// Place this directory inside AOSP tree: device/generic/automotive/vhaldemoapp/
+
+android_app_import {
+    name: "VHALDemoApp",
+    apk: "app-debug.apk",
+    certificate: "platform",
+    privileged: true,
+    required: [
+        "privapp_whitelist_com.example.vhaldemoapp",
+    ],
+}
+
+prebuilt_etc {
+    name: "privapp_whitelist_com.example.vhaldemoapp",
+    sub_dir: "permissions",
+    src: "com.example.vhaldemoapp.xml",
+    filename_from_src: true,
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- Replace with your actual app package name -->
+    <privapp-permissions package="com.example.automotiveapp">
+        <!-- Add whatever signature|privileged permissions your app needs -->
+        <permission name="android.car.permission.CONTROL_CAR_CLIMATE"/>
+        <permission name="android.car.permission.CAR_VENDOR_EXTENSION"/>
+    </privapp-permissions>
+</permissions>
